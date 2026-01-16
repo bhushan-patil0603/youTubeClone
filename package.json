@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/package.json",
+  "name": "youtubeclone",
+  "version": "1.0.0",
+  "description": "A youtube clone from chai aur code",
+  "license": "ISC",
+  "author": "Bhushan patil",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11",
+    "prettier": "^3.8.0"
+  }
+}
